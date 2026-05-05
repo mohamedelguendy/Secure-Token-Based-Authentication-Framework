@@ -1,1 +1,0 @@
-A Python-based secure authentication and data integrity system implementing password hashing with salt, JWT-based authentication, HMAC message verification, digital signatures, and role-based access control with built-in security testing for tampering and token validation.
